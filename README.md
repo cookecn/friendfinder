@@ -1,7 +1,11 @@
 # friendfinder
 Homework - Express 
 
-# 
+# Heroku URL
+* https://cookecn-friendfinder.herokuapp.com/
+
+# Portfolio URL 
+* http://cookecn.github.io/updatedPortfolio
 
 # Contributors
 *@cookecn
